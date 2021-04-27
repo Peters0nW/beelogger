@@ -1,7 +1,7 @@
 # Arduino Datenlogger mit Stockwaage für Imker
 
-<p> This project is a inspiration of **(Beelogger)[https://beelogger.de]**
-<p>You can copy this project from there, its OpenSource and there are dif. Version (LAN/WIFI/BT/GSM/...).</p><br>
+This project is a inspiration of ***(Beelogger)*** [https://beelogger.de] <br>
+You can copy this project from there, its OpenSource and there are dif. Version (LAN/WIFI/BT/GSM/...).
 
 
 used Parts:
