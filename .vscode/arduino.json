@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "sketch": "beelogger.ino",
+    "port": "/dev/tty.usbserial-A50285BI"
+}

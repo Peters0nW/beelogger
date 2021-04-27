@@ -1,0 +1,37 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: avr-g++ Aktive Datei kompilieren",
+            "command": "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/avr-g++",
+            "args": [
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}",
+                "-Wall",
+                "-Wextra",
+                "-std=gnu++11",
+                "-fpermissive",
+                "-fno-exceptions",
+                "-ffunction-sections",
+                "-fdata-sections",
+                "-fno-threadsafe-statics",
+                "-Wno-error=narrowing",
+                "-splash="
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Vom Debugger generierte Aufgabe."
+        }
+    ],
+    "version": "2.0.0"
+}
