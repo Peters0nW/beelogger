@@ -5,7 +5,6 @@
 #include <Wire.h>
 #include <HX711.h>
 #include <DS3231.h>
-//#include "DallasTemperature.h"
 #include <DHT.h>
 #include <SoftwareSerial.h>
 #include </Users/peet/dev/arduino/beelogger/src/beelogger.h>
